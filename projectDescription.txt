@@ -1,0 +1,5 @@
+Decentralised Lottery
+● Players can enter the lottery by paying a certain amount
+● Generate a random winner. (optional for you to give the hint: can do using chain link VRF).
+● Transfer all the amount deposited to the winner.
+● Make it automated generating winners and distributing funds after a fixed time. ( hint: can do using chain link keepers). 
