@@ -3,3 +3,5 @@ Decentralised Lottery
 ● Generate a random winner. (optional for you to give the hint: can do using chain link VRF).
 ● Transfer all the amount deposited to the winner.
 ● Make it automated generating winners and distributing funds after a fixed time. ( hint: can do using chain link keepers). 
+
+The contract is deployed at  https://testnet.bscscan.com/address/0xffa25726181d9aea36226b052ac6379c6eb9ce6d#code
